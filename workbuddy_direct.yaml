@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-SUFFIX,tencent.sso.codebuddy.cn
+  - DOMAIN-SUFFIX,workbuddy.link
+  - DOMAIN-SUFFIX,static.workbuddy.cn
+  - DOMAIN-SUFFIX,download.codebuddy.cn
+  - DOMAIN-WILDCARD,workbuddy-extensions-*.myqcloud.com
+  - DOMAIN-WILDCARD,codebuddy-platform-*.myqcloud.com
+  - DOMAIN-SUFFIX,docs.qq.com
+  - DOMAIN-SUFFIX,work.weixin.qq.com
+  - DOMAIN-SUFFIX,map.qq.com
+  - DOMAIN-SUFFIX,galileotelemetry.tencent.com
